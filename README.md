@@ -1,42 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Prodigy Data Science Project 03</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            color: #333;
-        }
-        h1, h2, h3 {
-            color: #0056b3;
-        }
-        code {
-            background-color: #f4f4f4;
-            padding: 2px 4px;
-            border-radius: 4px;
-            font-size: 0.9em;
-        }
-        a {
-            color: #0056b3;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        .code-block {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border-radius: 4px;
-            font-family: monospace;
-            overflow-x: auto;
-        }
-    </style>
-</head>
-<body>
-    <h1>Prodigy Data Science Project 03</h1>
+
+<h1>Prodigy Data Science Project 03</h1>
     <p>Welcome to the Prodigy Data Science Project 03! This project aims to implement Python scripts that greet the user with a welcome message and usage instructions. It restricts usage to specific characters and throws an exception if unsupported characters are used.</p>
 
 <h2>Features</h2>
