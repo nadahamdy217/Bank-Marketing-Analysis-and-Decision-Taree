@@ -1,47 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bank Marketing Campaign Analysis</title>
+</head>
+<body>
+    <h1>📊 Bank Marketing Campaign Analysis</h1>
+    <h2>📝 Dataset Overview</h2>
+    <p>This dataset contains information about individuals' characteristics and their responses to a bank's marketing campaign. Key features include:</p>
+    <ul>
+        <li><strong>Age</strong>: Age of the individual.</li>
+        <li><strong>Job</strong>: Occupation (e.g., management, technician, entrepreneur).</li>
+        <li><strong>Marital</strong>: Marital status (e.g., married, single).</li>
+        <li><strong>Education</strong>: Educational level (e.g., tertiary, secondary).</li>
+        <li><strong>Default</strong>: Loan default status.</li>
+        <li><strong>Balance</strong>: Account balance.</li>
+        <li><strong>Housing</strong>: Housing loan status.</li>
+        <li><strong>Loan</strong>: Personal loan status.</li>
+        <li><strong>Contact</strong>: Contact method.</li>
+        <li><strong>Day</strong>: Day of the month of contact.</li>
+        <li><strong>Month</strong>: Month of contact.</li>
+        <li><strong>Duration</strong>: Call duration in seconds.</li>
+        <li><strong>Campaign</strong>: Number of contacts during the campaign.</li>
+        <li><strong>Pdays</strong>: Days since last contact.</li>
+        <li><strong>Previous</strong>: Number of previous contacts.</li>
+        <li><strong>Poutcome</strong>: Outcome of the previous campaign.</li>
+        <li><strong>Y</strong>: Subscription status to a service.</li>
+    </ul>
 
-<h1>Prodigy Data Science Project 03</h1>
-    <p>Welcome to the Prodigy Data Science Project 03! This project aims to implement Python scripts that greet the user with a welcome message and usage instructions. It restricts usage to specific characters and throws an exception if unsupported characters are used.</p>
+<h2>🛠️ Data Preparation</h2>
+    <ul>
+        <li><strong>Missing Values</strong>: Handled various representations of missing data (-1, 0, NaN, Null).</li>
+        <li><strong>Outliers</strong>: Identified and treated outliers in all columns except "day".</li>
+        <li><strong>Transformations</strong>: Applied Yeo-Johnson and log transformations to reduce outliers.</li>
+    </ul>
 
-<h2>Features</h2>
-<ul>
-<li>Welcoming message with usage instructions.</li>
-<li>Restricted character set usage: only alphabet letters, dots, and spaces.</li>
- <li>Exception handling for unsupported characters (e.g., Arabic or numbers).</li>
-</ul>
-
-<h2>Usage</h2>
-<p>To use the script, run the following command:</p>
-<div class="code-block">
-<code>python script.py</code>
-</div>
-<p>Ensure that your input follows the specified character set. If you enter characters outside this set, the script will raise an exception.</p>
-
-<h2>Requirements</h2>
-<p>Make sure you have the following installed:</p>
-<ul>
-<li>Python 3.6 or higher</li>
-</ul>
-
-<h2>Installation</h2>
-<p>Clone the repository:</p>
-<div class="code-block">
-<code>git clone https://github.com/yourusername/Prodigy-DS-03.git</code>
-</div>
-<p>Navigate to the project directory:</p>
-<div class="code-block">
-<code>cd Prodigy-DS-03</code>
-  </div>
-
-<h2>Contributing</h2>
-<p>Contributions are welcome! Please feel free to submit a Pull Request.</p>
-
-
-<h2>Contact</h2>
-<p>For any inquiries, please contact <a href="mailto:your.email@example.com">your.email@example.com</a>.</p>
-</body>
-</html>
-
-
-![image](https://github.com/nadahamdy217/PRODIGY_DS_03/assets/115176121/f2aeb191-919f-4368-9b47-87b041da273a)
-![image](https://github.com/nadahamdy217/PRODIGY_DS_03/assets/115176121/f866ac61-9de9-4cff-95b2-6ae20220b7cd)
-![image](https://github.com/nadahamdy217/PRODIGY_DS_03/assets/115176121/eda456bd-815c-4749-abef-a5051dcd982f)
+   <h2>📈 Visualization</h2>
+    <ul>
+        <li><strong>Categorical vs. Numeri
