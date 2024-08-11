@@ -34,3 +34,4 @@
    <h2>📈 Visualization</h2>
     <ul>
         <li><strong>Categorical vs. Numeri
+        <li><strong> heat map</strong></li>
