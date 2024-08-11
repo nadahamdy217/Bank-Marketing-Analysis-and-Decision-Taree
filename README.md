@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Bank Marketing Campaign Analysis</title>
+
 </head>
 <body>
     <h1>📊 Bank Marketing Campaign Analysis</h1>
