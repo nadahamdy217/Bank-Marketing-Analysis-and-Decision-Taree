@@ -1,7 +1,7 @@
 
 </head>
 <body>
-    <h1>📊 Bank Marketing Campaign Analysis</h1>
+    <h1>📊 Bank Marketing Analysis and Decision Taree</h1>
     <h2>📝 Dataset Overview</h2>
     <p>This dataset contains information about individuals' characteristics and their responses to a bank's marketing campaign. Key features include:</p>
     <ul>
